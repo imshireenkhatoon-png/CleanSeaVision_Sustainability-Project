@@ -20,7 +20,6 @@ This week focused on *model testing, visualization, and UI preparation*.
 3. *Learning Outcome*
    - Understood model inference flow in TensorFlow.
    - Gained practice connecting Teachable Machine output to custom Python visualization.
-   - Prepared foundation for deployment in Week 3.
 
 ## 📁 Files in this Repository
 | File | Description |
