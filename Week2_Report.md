@@ -30,7 +30,6 @@ This week focused on *model testing, visualization, and UI preparation*.
 | README.md | Project documentation and progress summary |
 
 ## 🚀 Next Steps (Week 3 Plan)
-- will be Creating app.py using streamlit that allows users to upload images and see results.
-- Streamlit couldn’t run on Kaggle, but the script works locally or on Streamlit Cloud.
-- Deploy the Streamlit app online.  
+- will be Creating webpage using Html,Css,Javascript that allows users to upload images and see results.
+- Deploy the webpage online.  
 - Add a cleaner user interface with images and eco-impact icons.  
