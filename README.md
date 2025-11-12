@@ -59,19 +59,17 @@ The project supports ocean sustainability by detecting pollution through deep le
 
 CleanSeaVision_Sustainability-Project/
 │
-├── CleanSeaVision/               # Front-end (HTML, CSS, JS, model_web folder)
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   └── model_web/
-│       ├── model.json
-│       ├── group1-shard1of1.bin
-│
 ├── CleanSeaVision_Model/         # Keras / Teachable Machine model files
 │   ├── model.h5
 │   ├── labels.txt
+├── Datasets_CleanSeaVision/      # Optional dataset reference              
+├── index.html                    # Front-end
+├── style.css
+├── script.js
+└── model_web/
+│      ├── model.json
+│      ├── group1-shard1of1.bin
 │
-├── Datasets_CleanSeaVision/      # Optional dataset reference
 │
 ├── cleanseavision_test.ipynb     # Kaggle or Colab test notebook
 └── README.md
