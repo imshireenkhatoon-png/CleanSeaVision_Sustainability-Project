@@ -48,7 +48,7 @@ Next Week:
 - Set up Kaggle notebook for testing and analysis
 - Evaluate accuracy and confusion matrix in Kaggle  
 - Integrate eco-tip output (e.g., “Recycle plastics responsibly”)  
-- Prepare simple web demo (Gradio / Streamlit)
+- Prepare simple web demo (Html,css,javascript)
 
 ---
 
